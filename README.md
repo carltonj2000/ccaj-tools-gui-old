@@ -11,4 +11,7 @@ Create the code in this repo following:
 ```bash
 npm init
 npm i -D electron
+npm install --save-dev @electron-forge/cli
+npx electron-forge import
+npm run make
 ```
