@@ -1,0 +1,14 @@
+{
+  "name": "ccaj-tools-gui",
+  "version": "1.0.0",
+  "description": "Carlton's Tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Carlton Joseph",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
